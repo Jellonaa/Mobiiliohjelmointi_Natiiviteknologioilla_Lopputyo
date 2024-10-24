@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Discover Movies</string>
+    <string name="discover_movies">Discover Movies</string>
+    <string name="home">Home</string>
+    <string name="info">Info</string>
+    <string name="shows_a_list_of_20_movies_from_the_tmdb_discover_feature">Shows a list of 20 movies from TMDB. Shows their titles, release dates and their average reviews</string>
+</resources>
